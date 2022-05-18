@@ -14,3 +14,11 @@
 - Implementar las formulas en JavaScript
 - Crear Funciones
 - Integrar con HTML y JS
+
+
+## Promedio, Mediana y Moda
+
+- Definir formulas
+- Implementar en JavaScript
+- Crear Funciones
+- Integrar con HTML y JS
